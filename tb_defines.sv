@@ -1,0 +1,1 @@
+`define MEM_DEPTH 4
